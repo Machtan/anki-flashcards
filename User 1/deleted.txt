@@ -1,0 +1,37 @@
+nid	mid	fields
+1455832899277	1449354593637	비-	u- (valgt)
+1455832963801	1449354593637	선별 (vælg | stjerne)	udvælgelse (sortering)
+1455832998652	1449354593637	인원	medlem (typisk personale)
+1455833067380	1449354593637	－원 （員）	-medlem
+1455833109132	1449354593637	V-나 보다 (-ㄴ가 보다)	Ser ud til ~ (ala.&nbsp;ㄴ 것 같다)
+1455833345710	1449354593637	당연하다&nbsp;（當然）	retfærdigt (retmæssigt) (dette + korrekt)
+1455833474365	1449354593637	설마	virkelig?! [ikke]
+1455833566564	1449354593637	-거든	siden ~ (når nu ~)
+1455833767470	1449354593637	겁쟁이&nbsp;（怯－）	bangebuks
+1455833837247	1449354593637	겁 （怯）	frygt
+1455833969834	1449354593637	걸리다	blive fanget (på / af noget)
+1455834414175	1449354593637	결국（結局）	endelig (i sidste ende) (konkluderende + situation)
+1455834466943	1449354593637	신입（新入）	nytilkommen
+1455834580201	1449354593637	기왕（旣住）（住: 주）	fortiden (forgangne tider) (tidligere + leve/bo)
+1455834692589	1449354593637	겉보기	udseende (overfladen)
+1455834722112	1449354593637	평범하다 (平凡)	ordinær
+1455834823812	1449354593637	맥(이) 빠지다&nbsp;（脈）	blive skuffet (pulsen + falder) [falde over en mac]
+1455834842910	1449354593637	길잡이	guide (vejgriber? ;)
+1455834882412	1449354593637	변신&nbsp;（變身）	forklædning (ændre + krop)
+1455870198054	1449354593637	겉	overfladen
+1455917829294	1449354593637	조만간（早晩間）	før eller siden (tidlig + sen + rum)
+1455918392973	1449354593637	짜다	forme (organisere)
+1456095011150	1449354593637	날렵하다	smart (skarp)
+1456095043956	1449354593637	골격	ramme (fysik)
+1456095070022	1449354593637	특정 （特定）	specificering (særlig + beslutning)
+1456095161061	1449354593637	종족	race
+1456095164461	1449354593637	섞이다	være blandet
+1456095185861	1449354593637	완전히&nbsp;（完全）	komplet (fuldstændig) (hel + alt/færdig)
+1456095390572	1449354593637	다리	bro
+1456095457163	1449354593637	김 (이) 빠지다	blive kedelig (miste sin damp/smag)
+1471975372212	1449354593637	게다가	derudover<div>'그러한데다가' (imens det er således)</div>
+1471975226281	1449354593637	당연하다（當然）	retmæssig<div>當 dette</div><div>然 korrekt</div>
+1471974907816	1449354593637	비－ （非）	ikke / anti
+1471974346995	1449354593637	선별（選別）	udvælgelse<div>選 valg</div><div>別 anderledes(?)</div>
+1471975158207	1449354593637	엄청나다	overvældende / absurd
+1471974948663	1449354593637	인원 （人員）	personale | antal personer<br /><div>人 person</div><div>-員 medlem af</div>
